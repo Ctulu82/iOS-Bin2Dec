@@ -13,6 +13,7 @@
 		6A7EF71425DCFF4900804B05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A7EF71225DCFF4900804B05 /* Main.storyboard */; };
 		6A7EF71625DCFF4A00804B05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A7EF71525DCFF4A00804B05 /* Assets.xcassets */; };
 		6A7EF71925DCFF4A00804B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A7EF71725DCFF4A00804B05 /* LaunchScreen.storyboard */; };
+		6A7EF72225DD05A800804B05 /* Transformer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7EF72125DD05A800804B05 /* Transformer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6A7EF71525DCFF4A00804B05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A7EF71825DCFF4A00804B05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A7EF71A25DCFF4A00804B05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A7EF72125DD05A800804B05 /* Transformer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transformer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6A7EF70C25DCFF4900804B05 /* AppDelegate.swift */,
 				6A7EF70E25DCFF4900804B05 /* SceneDelegate.swift */,
 				6A7EF71025DCFF4900804B05 /* ViewController.swift */,
+				6A7EF72125DD05A800804B05 /* Transformer.swift */,
 				6A7EF71225DCFF4900804B05 /* Main.storyboard */,
 				6A7EF71525DCFF4A00804B05 /* Assets.xcassets */,
 				6A7EF71725DCFF4A00804B05 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				6A7EF71125DCFF4900804B05 /* ViewController.swift in Sources */,
 				6A7EF70D25DCFF4900804B05 /* AppDelegate.swift in Sources */,
 				6A7EF70F25DCFF4900804B05 /* SceneDelegate.swift in Sources */,
+				6A7EF72225DD05A800804B05 /* Transformer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
